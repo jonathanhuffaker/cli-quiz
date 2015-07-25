@@ -1,3 +1,11 @@
+.content {
+	font-family: arial;
+	max-width: 65%;
+	color: red;
+}
+
 .sonnets {
-	color: blue;
+	font-family: Tahoma;
+	position: fixed;
+	float: right;
 }
